@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,20,24,27&text=AuraBox&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Small%2C%20considered%20tools%20for%20your%20editor%20and%20terminal&descAlignY=62&descSize=18" width="100%" alt="AuraBox">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,20,24,27&text=ak-codexx&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Small%2C%20considered%20tools%20for%20your%20editor%20and%20terminal&descAlignY=62&descSize=18" width="100%" alt="ak-codexx">
 
-<sub><em>AuraBox is an independent publisher of developer tools for Visual Studio Code, Open VSX, and npm — built to remove friction and keep your focus on the code.</em></sub>
+<sub><em>ak-codexx is an independent publisher of developer tools for Visual Studio Code, Open VSX, and npm — built to remove friction and keep your focus on the code.</em></sub>
 
 <sub><strong>README</strong> &nbsp;·&nbsp; v1.0.0</sub>
 
 <br><br>
 
 <a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/Open%20VSX-10%20extensions-7C3AED?style=for-the-badge" alt="Open VSX"></a>
-<a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+<a href="https://github.com/ak-codexx/npm"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="#license"><img src="https://img.shields.io/badge/license-MIT-22D3EE?style=for-the-badge" alt="License"></a>
 <a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI--ready-7C3AED?style=for-the-badge" alt="AI-ready"></a>
 
@@ -140,11 +140,53 @@ Or search **ak-codexx** in the Extensions view of VS Code, Cursor, Windsurf, or 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,27" width="100%" alt="divider">
 
+<!-- ============================  DOWNLOADS  ============================ -->
+
+<div align="center">
+
+### ⬇️ ◈ Direct VSIX Downloads
+
+Pre-built `.vsix` packages — click a file to download, then install it with
+`code --install-extension <file>.vsix`.
+
+</div>
+
+| Extension | Version | Download |
+| :--- | :---: | :--- |
+| Battery Health Report | 1.2.0 | [battery-health-reportx-1.2.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/battery-health-reportx-1.2.0.vsix) |
+| CodeBridge | 0.2.0 | [codebridge-syncx-0.2.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/codebridge-syncx-0.2.0.vsix) |
+| Extension Bar | 1.1.0 | [extension-barx-1.1.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/extension-barx-1.1.0.vsix) |
+| Git Studio Max | 3.2.0 | [git-studio-maxx-3.2.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/git-studio-maxx-3.2.0.vsix) |
+| Host File Editor | 3.1.0 | [host-file-editorx-3.1.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/host-file-editorx-3.1.0.vsix) |
+| JS/TS React Snippets | 2.2.0 | [js-ts-react-snippetsx-2.2.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/js-ts-react-snippetsx-2.2.0.vsix) |
+| Multi Dotenv | 1.4.0 | [multi-dotenvx-1.4.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/multi-dotenvx-1.4.0.vsix) |
+| Task Digest | 3.2.0 | [task-digestx-3.2.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/task-digestx-3.2.0.vsix) |
+| TS-schemaCraft | 0.3.0 | [ts-schemacraftx-0.3.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/ts-schemacraftx-0.3.0.vsix) |
+| Umbra Black | 3.6.0 | [umbra-blackx-3.6.0.vsix](https://raw.githubusercontent.com/ak-codexx/vsix/main/umbra-blackx-3.6.0.vsix) |
+
+<details>
+<summary><strong>&nbsp;▸&nbsp; Install a downloaded VSIX</strong></summary>
+
+<br>
+
+```bash
+# Download the file, then:
+code --install-extension host-file-editorx-3.1.0.vsix
+```
+
+Or in VS Code: **Extensions → ⋯ → Install from VSIX…**
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,27" width="100%" alt="divider">
+
 <!-- ==============================  NPM  =============================== -->
 
 <div align="center">
 
 ### 🟢 ◈ npm Packages
+
+Full details in the [ak-codexx/npm](https://github.com/ak-codexx/npm) repository.
 
 </div>
 
@@ -171,7 +213,7 @@ npm install node-project-scanner
 npm install react-form-builder-studio
 ```
 
-Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
+Or search **`akcodexx`** on [npm](https://www.npmjs.com/~akcodexx).
 
 </details>
 
@@ -193,11 +235,11 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 
 <div align="center">
 
-### 🌟 Find AuraBox
+### 🌟 Find ak-codexx
 
 <a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/Open%20VSX-ak--codexx-7C3AED?style=for-the-badge" alt="Open VSX"></a>
-<a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-_darkaura-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
-<a href="https://github.com/akhil-bs-codes"><img src="https://img.shields.io/badge/GitHub-akhil--bs--codes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.npmjs.com/~akcodexx"><img src="https://img.shields.io/badge/npm-akcodexx-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+<a href="https://github.com/ak-codexx"><img src="https://img.shields.io/badge/GitHub-ak--codexx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br>
 
