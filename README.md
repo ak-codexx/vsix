@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://marketplace.visualstudio.com/publishers/AuraBox">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,20,24,27&text=AuraBox&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Small%2C%20considered%20tools%20for%20your%20editor%20and%20terminal&descAlignY=62&descSize=18" width="100%" alt="AuraBox">
-</a>
 
 <sub><em>AuraBox is an independent publisher of developer tools for Visual Studio Code, Open VSX, and npm — built to remove friction and keep your focus on the code.</em></sub>
 
@@ -10,15 +8,14 @@
 
 <br><br>
 
-<a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/VS%20Code-8%20extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
-<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-9%20extensions-7C3AED?style=for-the-badge" alt="Open VSX"></a>
+<a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/Open%20VSX-10%20extensions-7C3AED?style=for-the-badge" alt="Open VSX"></a>
 <a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="#license"><img src="https://img.shields.io/badge/license-MIT-22D3EE?style=for-the-badge" alt="License"></a>
-<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI--ready-7C3AED?style=for-the-badge" alt="AI-ready"></a>
+<a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI--ready-7C3AED?style=for-the-badge" alt="AI-ready"></a>
 
 <br><br>
 
-<a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=AI-ready+developer+tooling;Clean+UIs+for+the+hosts+file;Track+tasks+without+leaving+VS+Code;A+Git+client+that+actually+feels+good;Themes%2C+battery+health%2C+.env+tooling" alt="Typing SVG"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=AI-ready+developer+tooling;Clean+UIs+for+the+hosts+file;Track+tasks+without+leaving+VS+Code;A+Git+client+that+actually+feels+good;Themes%2C+battery+health%2C+.env+tooling" alt="Typing SVG">
 
 </div>
 
@@ -28,8 +25,7 @@
 
 ### 🟣 ◈ Extensions
 
-Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/AuraBox)
-&nbsp;·&nbsp; [Open VSX](https://open-vsx.org/namespace/AuraBox)
+Published on [Open VSX](https://open-vsx.org/namespace/ak-codexx)
 
 </div>
 
@@ -37,87 +33,87 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/host-file-editor?style=for-the-badge&label=Host%20File%20Editor&color=6f42c1" alt="Host File Editor">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/host-file-editorx?style=for-the-badge&label=Host%20File%20Editor&color=6f42c1" alt="Host File Editor">
 
 **Manage your system hosts file**<br>with a clean, modern UI.<br><sub>Windows · Linux · macOS</sub>
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.host-file-editor) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/host-file-editor)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/host-file-editorx)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/task-digest?style=for-the-badge&label=Task%20Digest&color=007ACC" alt="Task Digest">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/task-digestx?style=for-the-badge&label=Task%20Digest&color=007ACC" alt="Task Digest">
 
 **Track tasks with statuses**<br>across fully custom report<br>sections in an editor panel.
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.task-digest) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/task-digest)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/task-digestx)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/git-studio-max?style=for-the-badge&label=Git%20Studio%20Max&color=c160ef" alt="Git Studio Max">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/git-studio-maxx?style=for-the-badge&label=Git%20Studio%20Max&color=c160ef" alt="Git Studio Max">
 
 **Visual Git client** with<br>commit graph, branch<br>manager, and more.
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.git-studio-max) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/git-studio-max)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/git-studio-maxx)
 
 </td>
 </tr>
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/multi-dotenv?style=for-the-badge&label=Multi%20Dotenv&color=2ea043" alt="Multi Dotenv">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/multi-dotenvx?style=for-the-badge&label=Multi%20Dotenv&color=2ea043" alt="Multi Dotenv">
 
 **Multi-file `.env` profiles**,<br>env diffing, validation<br>diagnostics, secret masking.
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.multi-dotenv) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/multi-dotenv)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/multi-dotenvx)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/umbra-black?style=for-the-badge&label=Umbra%20Black&color=181717" alt="Umbra Black">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/umbra-blackx?style=for-the-badge&label=Umbra%20Black&color=181717" alt="Umbra Black">
 
 **OLED black/gray theme** with<br>JetBrains Islands–inspired<br>syntax and matching icons.
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.umbra-black) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/umbra-black)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/umbra-blackx)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/battery-health-report?style=for-the-badge&label=Battery%20Health%20Report&color=d29922" alt="Battery Health Report">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/battery-health-reportx?style=for-the-badge&label=Battery%20Health%20Report&color=d29922" alt="Battery Health Report">
 
 **Check your laptop's**<br>battery capacity, cycle<br>count, and condition.
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.battery-health-report) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/battery-health-report)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/battery-health-reportx)
 
 </td>
 </tr>
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/extension-bar?style=for-the-badge&label=Extension%20Bar&color=e34c26" alt="Extension Bar">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/extension-barx?style=for-the-badge&label=Extension%20Bar&color=e34c26" alt="Extension Bar">
 
 **Pin extensions as icons**<br>in the editor title bar.<br>Click or use shortcuts.
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.extension-bar) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/extension-bar)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/extension-barx)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/codebridge-sync?style=for-the-badge&label=CodeBridge&color=1f6feb" alt="CodeBridge">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/codebridge-syncx?style=for-the-badge&label=CodeBridge&color=1f6feb" alt="CodeBridge">
 
 **Configuration sync** for<br>VS Code, Cursor, Windsurf,<br>and VSCodium.
 
-[VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.codebridge-sync) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/codebridge-sync)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/codebridge-syncx)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/open-vsx/v/AuraBox/ts-schemacraft?style=for-the-badge&label=TS-schemaCraft&color=b91c8f" alt="TS-schemaCraft">
+<img src="https://img.shields.io/open-vsx/v/ak-codexx/ts-schemacraftx?style=for-the-badge&label=TS-schemaCraft&color=b91c8f" alt="TS-schemaCraft">
 
 **Paste a JS object** and<br>instantly generate TS<br>interfaces, types, or JSON Schema.
 
-[Open VSX](https://open-vsx.org/extension/AuraBox/ts-schemacraft)
+[Open VSX](https://open-vsx.org/extension/ak-codexx/ts-schemacraftx)
 
 </td>
 </tr>
@@ -131,14 +127,14 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 <br>
 
 ```bash
-code --install-extension AuraBox.umbra-black
-code --install-extension AuraBox.host-file-editor
-code --install-extension AuraBox.git-studio-max
-code --install-extension AuraBox.multi-dotenv
-code --install-extension AuraBox.task-digest
+code --install-extension ak-codexx.umbra-blackx
+code --install-extension ak-codexx.host-file-editorx
+code --install-extension ak-codexx.git-studio-maxx
+code --install-extension ak-codexx.multi-dotenvx
+code --install-extension ak-codexx.task-digestx
 ```
 
-Or search **AuraBox** in the Extensions view of VS Code, Cursor, Windsurf, or VSCodium.
+Or search **ak-codexx** in the Extensions view of VS Code, Cursor, Windsurf, or VSCodium.
 
 </details>
 
@@ -199,8 +195,7 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 
 ### 🌟 Find AuraBox
 
-<a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/Marketplace-AuraBox-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Marketplace"></a>
-<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-AuraBox-7C3AED?style=for-the-badge" alt="Open VSX"></a>
+<a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/Open%20VSX-ak--codexx-7C3AED?style=for-the-badge" alt="Open VSX"></a>
 <a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-_darkaura-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="https://github.com/akhil-bs-codes"><img src="https://img.shields.io/badge/GitHub-akhil--bs--codes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
