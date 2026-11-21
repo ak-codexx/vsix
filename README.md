@@ -1,3 +1,9 @@
+## Project Links
+
+- **Repository:** https://github.com/ak-codexx/ak-codexx
+- **Homepage:** https://github.com/ak-codexx
+- **Repository (git):** `https://github.com/ak-codexx/ak-codexx.git`
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,20,24,27&text=ak-codexx&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Small%2C%20considered%20tools%20for%20your%20editor%20and%20terminal&descAlignY=62&descSize=18" width="100%" alt="ak-codexx">
@@ -9,7 +15,7 @@
 <br><br>
 
 <a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/Open%20VSX-10%20extensions-7C3AED?style=for-the-badge" alt="Open VSX"></a>
-<a href="https://github.com/ak-codexx/npm"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+<a href="https://www.npmjs.com/~akcodexx"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="#license"><img src="https://img.shields.io/badge/license-MIT-22D3EE?style=for-the-badge" alt="License"></a>
 <a href="https://open-vsx.org/namespace/ak-codexx"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI--ready-7C3AED?style=for-the-badge" alt="AI-ready"></a>
 
@@ -258,8 +264,9 @@ Or search **`akcodexx`** on [npm](https://www.npmjs.com/~akcodexx).
 
 Released under the **MIT** license. See [`LICENSE`](LICENSE) for details.
 
-Copyright (c) 2026 Akhil B S
+Copyright (c) 2026 ak-codexx
 
 </sub>
 
 </div>
+
